@@ -65,25 +65,36 @@ MODEL GRAPH:
 
 
 Program
-
+am=5.4;
+fm=467;
+fc=4670;
+ac=10.8;
+fs=46700;
+B=4.25;
+t=0:1/fs:2/fm;
+m=am*cos(2*3.14*fm*t);
+subplot(3,1,1);
+plot(t,m);
+c=ac*cos(2*3.14*fc*t);
+subplot(3,1,2);
+plot(t,c);
+Efm=ac*cos((2*3.14*fc*t)+(B*sin(2*3.14*fm*t)));
+subplot(3,1,3);
+plot(t,Efm);
 
 Output Waveform
+<img width="1915" height="1002" alt="exop 4" src="https://github.com/user-attachments/assets/442dd3b4-a930-42ca-b58a-61a1921313c2" />
 
 
 
 Tabulation
+![exp 4 tab](https://github.com/user-attachments/assets/aebbd3e4-0061-4ebc-a11e-8e291cb01ce1)
 
 
 
 Calculation
+![exp 4 calculation](https://github.com/user-attachments/assets/64733a00-353e-4cca-994e-e4a53a6040b6)
 
-
-
-Frequency Deviation Practical = 
-
-Modulation Index Practical	= 
-
-Modulation Index Theoretical	=
 
 
 
