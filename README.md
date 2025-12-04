@@ -94,7 +94,10 @@ Tabulation
 
 
 Calculation
-![exp 4 calculation](https://github.com/user-attachments/assets/64733a00-353e-4cca-994e-e4a53a6040b6)
+f=fmax -fc 
+=66666.66-434782
+=2318.84
+m= =2318.84/430.51 =0.0538
 
 
 
