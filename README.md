@@ -88,7 +88,8 @@ Output Waveform
 
 
 Tabulation
-![exp 4 tab](https://github.com/user-attachments/assets/aebbd3e4-0061-4ebc-a11e-8e291cb01ce1)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/9188cde3-f0c3-48b3-a8e9-dfe2a15c3f9a" />
+
 
 
 
